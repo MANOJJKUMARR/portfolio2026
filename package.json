@@ -1,0 +1,20 @@
+{
+  "name": "interactive-portfolio",
+  "version": "1.0.0",
+  "description": "Full dynamic and interactive developer portfolio with zero external build requirements",
+  "scripts": {
+    "start": "npx live-server --port=3000 --no-browser",
+    "chrome": "cmd /c run-chrome.bat",
+    "dev": "npx live-server --port=3000 --no-browser"
+  },
+  "keywords": [
+    "portfolio",
+    "interactive",
+    "web-audio",
+    "canvas",
+    "threejs",
+    "tailwind"
+  ],
+  "author": "Alex Mercer",
+  "license": "MIT"
+}
